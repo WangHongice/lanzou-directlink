@@ -3,6 +3,8 @@
 获取云盘分享链接直链
 
 [![Security Status](https://s.murphysec.com/badge/HurryBy/lanzou-directlink.svg)](https://www.murphysec.com/p/HurryBy/lanzou-directlink)
+[![EdgeOne Logo](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)](https://edgeone.ai/zh?from=github)
+本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
 ### 测试网站
 
 网页版测试网站: https://cloud.humorously.cn
